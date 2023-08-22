@@ -1,4 +1,5 @@
 # TicTacToe
 Simple game "Tic Tac Toe"
 
-![hippo](https://github.com/ivanmas97/TicTacToe/blob/main/IMG_7786.gif)
+<img src="./IMG_7786.gif" width="40%" height="40%"/>
+
